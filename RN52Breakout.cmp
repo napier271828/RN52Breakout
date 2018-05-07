@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by PcbNew   date = 2018年05月07日 月曜日 14:48:03
+
+BeginCmp
+TimeStamp = 5AEFDFDB
+Path = /5AEFC723
+Reference = BT1;
+ValeurCmp = RN52-I/RM;
+IdModule  = MOUDLE-BLUETOOTH-AUDIO-RN52-I_RM_50P-26X13.5MM_:LGA50-1.0-26X13.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEFDFF0
+Path = /5AEFDA06
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEFE005
+Path = /5AEFDA7D
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEFE250
+Path = /5AEFE4FF
+Reference = R1;
+ValeurCmp = 330;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEFE261
+Path = /5AEFE56C
+Reference = R2;
+ValeurCmp = 330;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEFEB96
+Path = /5AEFC7C3
+Reference = J1;
+ValeurCmp = HEADER_20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEFEBBD
+Path = /5AEFC82A
+Reference = J2;
+ValeurCmp = HEADER_20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20_Pitch2.54mm;
+EndCmp
+
+EndListe
